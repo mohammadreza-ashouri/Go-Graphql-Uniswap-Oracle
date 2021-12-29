@@ -6,7 +6,8 @@ I wrote this PoC in Go, and its complete version (large scale) will not but publ
 If you are more interested to know about the full version contact me: ashourics@gmail.com
 
 
-#get the package first
+# Required package 
 go get github.com/machinebox/graphql
-#running the code
+
+# Run
 go run file.go
