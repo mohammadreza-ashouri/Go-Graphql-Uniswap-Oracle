@@ -6,8 +6,8 @@ I wrote this PoC in Go, and its complete version (large scale) will not but publ
 If you are more interested to know about the full version contact me: ashourics@gmail.com
 
 
-# Required package 
+## Required package 
 go get github.com/machinebox/graphql
 
-# Run
-go run file.go
+## Run
+uniswap-graphql-feed.go
