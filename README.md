@@ -1,4 +1,4 @@
-# Go-Graphql-Uniswap-Oracle
+## A Proof of Concept Oracle in Go and GraphQl
 
 Hey folks,
 This is a simple data feed oracle targeting uniswap V3 graphQl node in order to gain its price.
